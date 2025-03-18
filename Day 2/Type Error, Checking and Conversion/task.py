@@ -1,0 +1,7 @@
+len("12345")
+print(type("12345"))
+print(type(1))
+print(type(3.14))
+print(type(True))
+user_name = input("Enter your name: ")
+print(f"Number of letters in your name: {len(user_name)}")
