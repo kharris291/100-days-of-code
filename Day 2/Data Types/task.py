@@ -1,1 +1,5 @@
 len("Hello")
+str("Hello")
+int(123.232)
+float("123.232")
+bool(123)
